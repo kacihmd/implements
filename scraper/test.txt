@@ -1,0 +1,9 @@
+kaci:hammoudi
+charlotte:thomas
+remi:durieu
+ceci est une ligne à ignorer.
+jesus=gay
+thomas:evrard
+tom = duchemin
+patrik:l'etoile
+
